@@ -4,3 +4,6 @@
 [submodule "Yasuko"]
 	path = Yasuko
 	url = git@github.com:imdaichao/Yasuko.git
+[submodule "tornado"]
+	path = tornado
+	url = ../tornado
