@@ -1,0 +1,6 @@
+[submodule "Casper"]
+	path = Casper
+	url = git@github.com:imdaichao/Casper.git
+[submodule "Yasuko"]
+	path = Yasuko
+	url = git@github.com:imdaichao/Yasuko.git
